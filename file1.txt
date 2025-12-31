@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Nationality:Indian and Japanese.
 
 
+=======
+Nationality:Indian and Chinese
+>>>>>>> 991369df90d967fbf0d34e8366bfdd8cba243ba8
